@@ -195,66 +195,28 @@
 
 <article class="post-card post"> 
     
-    <a class="post-card-image-link" href="/post/javascript-gariplikleri/">
+    <a class="post-card-image-link" href="/post/kotlin-when-kullan%C4%B1m%C4%B1/">
       <div class="post-card-image" style="background-image: url(/defimg/1.jpg)"></div>
     </a>    
     
 
     <div class="post-card-content">
-      <a class="post-card-content-link" href="/post/javascript-gariplikleri/">
+      <a class="post-card-content-link" href="/post/kotlin-when-kullan%C4%B1m%C4%B1/">
           <header class="post-card-header">
               <span class="post-card-tags">
               #software 
-              #javascript  </span>
-              
-              <h2 class="post-card-title">Javascript Gariplikleri</h2>
-          </header>
-          <section class="post-card-excerpt">
-              
-                <p>Saatlerdir uğraştığım ve javascriptle temel düzeyden biraz daha ileri düzeyde uğraşan kişilerin başına gelebilecek bir saçmalığı belirtmek istiyorum.
-Her dilde var olan Replace fonksiyonu Javascript de saçma sapan bir şekilde yapılandırılmış. Bu kadar basit bir şeyi bu kadar komplike bir vaziyete sokmak gerçekten harika.
-Örneğin elinizde
-var degisken = ‘İSTANBUL’ ;
-şeklinde bir değişkeniniz var. Ve siz ihtiyacınız doğrultusunda bu kelimeyi veritabanından çektiğiniz ‘istanbul’ kelimesi ile karşılaştırmak istiyorsunuz.
-$(&#39;#Iller &gt; option&#39;). ...  </p>
-              
-          </section>
-      </a>
-
-      <footer class="post-card-meta">
-          <img class="author-profile-image" src="/img/ghost-icon.png" alt="Author" />
-          <span class="post-card-author"><a href="/">AykutAsil</a></span>
-      </footer>
-    </div>
-</article>
- 
-
-<article class="post-card post"> 
-    
-    <a class="post-card-image-link" href="/post/android-architecture-components/">
-      <div class="post-card-image" style="background-image: url(/defimg/3.jpg)"></div>
-    </a>    
-    
-
-    <div class="post-card-content">
-      <a class="post-card-content-link" href="/post/android-architecture-components/">
-          <header class="post-card-header">
-              <span class="post-card-tags">
-              #software 
-              #android 
               #kotlin 
-              #android-architecure 
-              #viewmodel 
-              #livedata 
-              #lifecycle  </span>
+              #android 
+              #when  </span>
               
-              <h2 class="post-card-title">Android Architecture Components</h2>
+              <h2 class="post-card-title">Kotlin when kullanımı</h2>
           </header>
           <section class="post-card-excerpt">
               
-                <p>Android Architecture Components Öncelikle şu linkleri verelim:
- https://developer.android.com/topic/libraries/architecture/index.html Lifecycle LiveData ViewModel  LifeCycle Daha önce Android uygulaması geliştirenler çok iyi bilirler ki bir activity veya fragment ın yaşam döngüsünü yönetmek sıkıntılı bir süreçtir. Activity'nin arka planda mı yoksa görünür vaziyette mi oluşuna göre düzenlenen akışlar çoğu zaman yoğun dikkat gerektiren süreçlerdir. Yukarıda ki Lifecycle linkine tıklarsanınz çok güzel bir örnek ile durumu açıklamışlar.
-Oluşturduğumuz nesneler eğer activity'nin yaşam döngüsüne bağlı ise bunu yönetmek için activity'mizin genelde onCreate ve onStop metodları içerisinde bu nesnelere ait fonksiyonları çağırıyorduk. ...  </p>
+                <p>Kotlin'de when operatörü oldukça işimizi kolaylaştıran operatörlerden biridir.
+if- else if yapısı yerine kullanılabileceği gibi bazı yardımcı operatörler ile birçok marifet kazanabilir.
+ val i = 10 when { i &lt; 7 -&gt; println(&quot;first block&quot;) fooString.startsWith(&quot;hello&quot;) -&gt; println(&quot;second block&quot;) else -&gt; println(&quot;else block&quot;) } Yukarıda ki örnek if-else if-else yapısının aynısıdır.
+  when (i) { 0, 21 -&gt; println(&quot;0 or 21&quot;) in 1..20 -&gt; println(&quot;in the range 1 to 20&quot;) else -&gt; println(&quot;none of the above&quot;) } Yukarıda ki gibi aralıklar tanımlanabilir ve bu aralıklara uyum kontrolü yapılarak ilgili işlemlerin yapılması sağlanılabilir. ...  </p>
               
           </section>
       </a>
@@ -269,31 +231,26 @@ Oluşturduğumuz nesneler eğer activity'nin yaşam döngüsüne bağlı ise bun
 
 <article class="post-card post"> 
     
-    <a class="post-card-image-link" href="/post/android-key-hashes-sha1/">
-      <div class="post-card-image" style="background-image: url(/defimg/6.jpg)"></div>
+    <a class="post-card-image-link" href="/post/executorservice-submit-execute/">
+      <div class="post-card-image" style="background-image: url(/defimg/1.jpg)"></div>
     </a>    
     
 
     <div class="post-card-content">
-      <a class="post-card-content-link" href="/post/android-key-hashes-sha1/">
+      <a class="post-card-content-link" href="/post/executorservice-submit-execute/">
           <header class="post-card-header">
               <span class="post-card-tags">
               #software 
-              #android 
               #java 
-              #sha1 
-              #keyhashes 
-              #bash  </span>
+              #executorservice 
+              #submit 
+              #execute  </span>
               
-              <h2 class="post-card-title">Android Key Hashes &amp; SHA1</h2>
+              <h2 class="post-card-title">ExecutorService submit() – execute()</h2>
           </header>
           <section class="post-card-excerpt">
               
-                <p>Android Key Hashes &amp; SHA1 Windows komut satırına aşağıdaki komutu yazarak ulaşabilirsiniz.
-keytool -exportcert -alias androiddebugkey -keystore %HOMEPATH%\.android\debug.keystore | openssl sha1 -binary | openssl base64 openssl hatası alırsanız https://code.google.com/p/openssl-for-windows/downloads/detail?name=openssl-0.9.8k_X64.zip adresindeki dosyayı indirdikten sonra çıkan dosyadaki bin klasörünü ortam değişkenlerindeki PATH kısmına eklerseniz sorun ortadan kalkacaktır.
-Ortam değişkenlerine ulaşmak için : Denetim Masası &gt; Sistem &gt; Gelişmiş Sİstem Ayarları
-SHA1 ulaşmak için komut satırına aşağıdaki kodu yazmanız yeterli olacaktır.
-your_user_name yerine kendi kullanıcı adınızı yazmayı unutmayın. ...  </p>
+                <p>ExecutorService submit() – execute() Link : http://javarevisited.blogspot.com.tr/2016/04/difference-between-ExecutorServie-submit-vs-Executor-execute-method-in-Java.html </p>
               
           </section>
       </a>
@@ -301,6 +258,43 @@ your_user_name yerine kendi kullanıcı adınızı yazmayı unutmayın. ...  </p
       <footer class="post-card-meta">
           <img class="author-profile-image" src="/img/ghost-icon.png" alt="Author" />
           <span class="post-card-author"><a href="/">AykutAsil</a></span>
+      </footer>
+    </div>
+</article>
+ 
+
+<article class="post-card post"> 
+    
+    <a class="post-card-image-link" href="/post/asp.net-core-app.run-middleware/">
+      <div class="post-card-image" style="background-image: url(/defimg/5.jpg)"></div>
+    </a>    
+    
+
+    <div class="post-card-content">
+      <a class="post-card-content-link" href="/post/asp.net-core-app.run-middleware/">
+          <header class="post-card-header">
+              <span class="post-card-tags">
+              #netcore 
+              #aspnetcore 
+              #csharp 
+              #webapi 
+              #api  </span>
+              
+              <h2 class="post-card-title">ASP.Net Core app.Run() Middleware</h2>
+          </header>
+          <section class="post-card-excerpt">
+              
+                <p>ASP.NET Core Run Method ASP.NET Core ile birlikte gelen middleware konsepti sayesinde request-response süreçleri arasına girerek kendi mantıksal devremizi yazmamız çok kolay hale gelmiştir.
+Yukarıda ki gibi Startup.cs sınıfı içerisindeki Configure fonksiyonuna app.Run() diyerek middleware&lsquo;ımızı ekleyebiliriz.
+Peki tam olarak app.Run() metodu nasıl çalışıyor? app.Run() middlaware'ı ile istenilen bir kod bloğunu çalıştırabilir ve uygulamamıza kısa devre yaptırabiliriz. Yani pipeline akışı eğer Run() içerisine girerse, sonraki kod blokları çalışmayacaktır.
+Yukarıda ki kodun çıktısı sadece Response 1 olacak ve sonraki kod bloğu çalışmayacaktır. ...  </p>
+              
+          </section>
+      </a>
+
+      <footer class="post-card-meta">
+          <img class="author-profile-image" src="/img/ghost-icon.png" alt="Author" />
+          <span class="post-card-author"><a href="/">Aykut Asil</a></span>
       </footer>
     </div>
 </article>

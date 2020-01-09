@@ -23,12 +23,12 @@
   </url>
   
   <url>
-    <loc>/categories/kotlin/</loc>
+    <loc>/tags/kotlin/</loc>
     <lastmod>2020-01-03T17:19:13+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/kotlin/</loc>
+    <loc>/categories/kotlin/</loc>
     <lastmod>2020-01-03T17:19:13+03:00</lastmod>
   </url>
   
@@ -83,12 +83,12 @@
   </url>
   
   <url>
-    <loc>/categories/android/</loc>
+    <loc>/tags/android/</loc>
     <lastmod>2019-08-03T03:14:28+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/android/</loc>
+    <loc>/categories/android/</loc>
     <lastmod>2019-08-03T03:14:28+03:00</lastmod>
   </url>
   
@@ -158,12 +158,12 @@
   </url>
   
   <url>
-    <loc>/tags/security/</loc>
+    <loc>/categories/security/</loc>
     <lastmod>2019-06-27T14:00:59+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/security/</loc>
+    <loc>/tags/security/</loc>
     <lastmod>2019-06-27T14:00:59+03:00</lastmod>
   </url>
   
@@ -233,12 +233,12 @@
   </url>
   
   <url>
-    <loc>/tags/mobile/</loc>
+    <loc>/categories/mobile/</loc>
     <lastmod>2019-02-25T00:00:27+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/mobile/</loc>
+    <loc>/tags/mobile/</loc>
     <lastmod>2019-02-25T00:00:27+03:00</lastmod>
   </url>
   
@@ -268,12 +268,12 @@
   </url>
   
   <url>
-    <loc>/tags/test/</loc>
+    <loc>/categories/test/</loc>
     <lastmod>2019-03-01T11:51:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/test/</loc>
+    <loc>/tags/test/</loc>
     <lastmod>2019-03-01T11:51:07+03:00</lastmod>
   </url>
   
@@ -498,12 +498,12 @@
   </url>
   
   <url>
-    <loc>/tags/iot/</loc>
+    <loc>/categories/iot/</loc>
     <lastmod>2018-08-03T22:21:48+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/iot/</loc>
+    <loc>/tags/iot/</loc>
     <lastmod>2018-08-03T22:21:48+03:00</lastmod>
   </url>
   
@@ -788,12 +788,12 @@
   </url>
   
   <url>
-    <loc>/tags/java/</loc>
+    <loc>/categories/java/</loc>
     <lastmod>2018-09-25T11:51:07+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/java/</loc>
+    <loc>/tags/java/</loc>
     <lastmod>2018-09-25T11:51:07+03:00</lastmod>
   </url>
   
@@ -913,12 +913,12 @@
   </url>
   
   <url>
-    <loc>/categories/rxjava/</loc>
+    <loc>/tags/rxjava/</loc>
     <lastmod>2017-01-11T18:52:51+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rxjava/</loc>
+    <loc>/categories/rxjava/</loc>
     <lastmod>2017-01-11T18:52:51+03:00</lastmod>
   </url>
   
@@ -1248,12 +1248,12 @@
   </url>
   
   <url>
-    <loc>/tags/orm/</loc>
+    <loc>/categories/orm/</loc>
     <lastmod>2017-01-11T01:00:19+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/orm/</loc>
+    <loc>/tags/orm/</loc>
     <lastmod>2017-01-11T01:00:19+03:00</lastmod>
   </url>
   
@@ -1288,12 +1288,12 @@
   </url>
   
   <url>
-    <loc>/categories/azure/</loc>
+    <loc>/tags/azure/</loc>
     <lastmod>2017-01-11T00:21:36+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/azure/</loc>
+    <loc>/categories/azure/</loc>
     <lastmod>2017-01-11T00:21:36+03:00</lastmod>
   </url>
   
