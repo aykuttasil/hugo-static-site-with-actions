@@ -1,8 +1,8 @@
-#baseURL = "https://aykuttasil.github.io/hugo-static-site-with-actions/"
+baseURL = "https://aykuttasil.github.io/hugo-static-site-with-actions/"
 #languageCode = "en-us"
 #title = "My New Hugo Site"
 
-baseurl         = "/"
+#baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
