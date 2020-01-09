@@ -2,1533 +2,1533 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 03 Jan 2020 17:19:13 +0300</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aykuttasil.github.io/hugo-static-site-with-actions/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>dsl</title>
-      <link>/tags/dsl/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dsl/</link>
       <pubDate>Fri, 03 Jan 2020 17:19:13 +0300</pubDate>
       
-      <guid>/tags/dsl/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>json</title>
-      <link>/tags/json/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/json/</link>
       <pubDate>Fri, 03 Jan 2020 17:19:13 +0300</pubDate>
       
-      <guid>/tags/json/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/json/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kotlin</title>
-      <link>/tags/kotlin/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/kotlin/</link>
       <pubDate>Fri, 03 Jan 2020 17:19:13 +0300</pubDate>
       
-      <guid>/tags/kotlin/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/kotlin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aspnetcore</title>
-      <link>/tags/aspnetcore/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/aspnetcore/</link>
       <pubDate>Tue, 12 Nov 2019 10:17:17 +0300</pubDate>
       
-      <guid>/tags/aspnetcore/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/aspnetcore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>session</title>
-      <link>/tags/session/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/session/</link>
       <pubDate>Tue, 12 Nov 2019 10:17:17 +0300</pubDate>
       
-      <guid>/tags/session/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/session/</guid>
       <description></description>
     </item>
     
     <item>
       <title>webapi</title>
-      <link>/tags/webapi/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/webapi/</link>
       <pubDate>Tue, 12 Nov 2019 10:17:17 +0300</pubDate>
       
-      <guid>/tags/webapi/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/webapi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>android</title>
-      <link>/tags/android/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/android/</link>
       <pubDate>Sat, 03 Aug 2019 03:14:28 +0300</pubDate>
       
-      <guid>/tags/android/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>debugging</title>
-      <link>/tags/debugging/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/debugging/</link>
       <pubDate>Sat, 03 Aug 2019 03:14:28 +0300</pubDate>
       
-      <guid>/tags/debugging/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/debugging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>local-web-server</title>
-      <link>/tags/local-web-server/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/local-web-server/</link>
       <pubDate>Sat, 03 Aug 2019 03:14:28 +0300</pubDate>
       
-      <guid>/tags/local-web-server/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/local-web-server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>windows</title>
-      <link>/tags/windows/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/windows/</link>
       <pubDate>Sat, 03 Aug 2019 03:14:28 +0300</pubDate>
       
-      <guid>/tags/windows/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/windows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>abd</title>
-      <link>/tags/abd/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/abd/</link>
       <pubDate>Sat, 20 Jul 2019 01:04:53 +0300</pubDate>
       
-      <guid>/tags/abd/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/abd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ip</title>
-      <link>/tags/ip/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/ip/</link>
       <pubDate>Sat, 20 Jul 2019 01:04:53 +0300</pubDate>
       
-      <guid>/tags/ip/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/ip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shell</title>
-      <link>/tags/shell/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/shell/</link>
       <pubDate>Sat, 20 Jul 2019 01:04:53 +0300</pubDate>
       
-      <guid>/tags/shell/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fileprovider</title>
-      <link>/tags/fileprovider/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/fileprovider/</link>
       <pubDate>Thu, 27 Jun 2019 14:00:59 +0300</pubDate>
       
-      <guid>/tags/fileprovider/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/fileprovider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>filesystem</title>
-      <link>/tags/filesystem/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/filesystem/</link>
       <pubDate>Thu, 27 Jun 2019 14:00:59 +0300</pubDate>
       
-      <guid>/tags/filesystem/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/filesystem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>permission</title>
-      <link>/tags/permission/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/permission/</link>
       <pubDate>Thu, 27 Jun 2019 14:00:59 +0300</pubDate>
       
-      <guid>/tags/permission/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/permission/</guid>
       <description></description>
     </item>
     
     <item>
       <title>security</title>
-      <link>/tags/security/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/security/</link>
       <pubDate>Thu, 27 Jun 2019 14:00:59 +0300</pubDate>
       
-      <guid>/tags/security/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>share-data</title>
-      <link>/tags/share-data/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/share-data/</link>
       <pubDate>Thu, 27 Jun 2019 14:00:59 +0300</pubDate>
       
-      <guid>/tags/share-data/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/share-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uri</title>
-      <link>/tags/uri/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/uri/</link>
       <pubDate>Thu, 27 Jun 2019 14:00:59 +0300</pubDate>
       
-      <guid>/tags/uri/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/uri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>filters</title>
-      <link>/tags/filters/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/filters/</link>
       <pubDate>Mon, 29 Apr 2019 10:05:05 +0300</pubDate>
       
-      <guid>/tags/filters/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/filters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>netcore</title>
-      <link>/tags/netcore/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/netcore/</link>
       <pubDate>Mon, 29 Apr 2019 10:05:05 +0300</pubDate>
       
-      <guid>/tags/netcore/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/netcore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>api</title>
-      <link>/tags/api/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/api/</link>
       <pubDate>Mon, 15 Apr 2019 22:08:14 +0300</pubDate>
       
-      <guid>/tags/api/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>csharp</title>
-      <link>/tags/csharp/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/csharp/</link>
       <pubDate>Mon, 15 Apr 2019 22:08:14 +0300</pubDate>
       
-      <guid>/tags/csharp/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/csharp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>databinding</title>
-      <link>/tags/databinding/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/databinding/</link>
       <pubDate>Mon, 25 Feb 2019 00:00:27 +0300</pubDate>
       
-      <guid>/tags/databinding/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/databinding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mobile</title>
-      <link>/tags/mobile/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/mobile/</link>
       <pubDate>Mon, 25 Feb 2019 00:00:27 +0300</pubDate>
       
-      <guid>/tags/mobile/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>service</title>
-      <link>/tags/service/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/service/</link>
       <pubDate>Thu, 14 Feb 2019 13:10:18 +0300</pubDate>
       
-      <guid>/tags/service/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>/tags/test/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/test/</link>
       <pubDate>Tue, 29 Jan 2019 15:38:29 +0300</pubDate>
       
-      <guid>/tags/test/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bash</title>
-      <link>/tags/bash/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/bash/</link>
       <pubDate>Mon, 10 Dec 2018 00:47:41 +0300</pubDate>
       
-      <guid>/tags/bash/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/bash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>script</title>
-      <link>/tags/script/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/script/</link>
       <pubDate>Mon, 10 Dec 2018 00:47:41 +0300</pubDate>
       
-      <guid>/tags/script/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/script/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sh</title>
-      <link>/tags/sh/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sh/</link>
       <pubDate>Mon, 10 Dec 2018 00:47:41 +0300</pubDate>
       
-      <guid>/tags/sh/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>build</title>
-      <link>/tags/build/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/build/</link>
       <pubDate>Sat, 01 Dec 2018 14:20:45 +0300</pubDate>
       
-      <guid>/tags/build/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/build/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cd</title>
-      <link>/tags/cd/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/cd/</link>
       <pubDate>Sat, 01 Dec 2018 14:20:45 +0300</pubDate>
       
-      <guid>/tags/cd/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/cd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ci</title>
-      <link>/tags/ci/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/ci/</link>
       <pubDate>Sat, 01 Dec 2018 14:20:45 +0300</pubDate>
       
-      <guid>/tags/ci/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/ci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>circleci</title>
-      <link>/tags/circleci/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/circleci/</link>
       <pubDate>Sat, 01 Dec 2018 14:20:45 +0300</pubDate>
       
-      <guid>/tags/circleci/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/circleci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>continuous-deployment</title>
-      <link>/tags/continuous-deployment/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/continuous-deployment/</link>
       <pubDate>Sat, 01 Dec 2018 14:20:45 +0300</pubDate>
       
-      <guid>/tags/continuous-deployment/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/continuous-deployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>continuous-integration</title>
-      <link>/tags/continuous-integration/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/continuous-integration/</link>
       <pubDate>Sat, 01 Dec 2018 14:20:45 +0300</pubDate>
       
-      <guid>/tags/continuous-integration/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/continuous-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deployment</title>
-      <link>/tags/deployment/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/deployment/</link>
       <pubDate>Sat, 01 Dec 2018 14:20:45 +0300</pubDate>
       
-      <guid>/tags/deployment/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/deployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssh</title>
-      <link>/tags/ssh/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/ssh/</link>
       <pubDate>Fri, 26 Oct 2018 01:04:21 +0300</pubDate>
       
-      <guid>/tags/ssh/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/ssh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dagger</title>
-      <link>/tags/dagger/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dagger/</link>
       <pubDate>Fri, 12 Oct 2018 11:48:08 +0300</pubDate>
       
-      <guid>/tags/dagger/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dagger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dependency-injection</title>
-      <link>/tags/dependency-injection/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dependency-injection/</link>
       <pubDate>Fri, 12 Oct 2018 11:48:08 +0300</pubDate>
       
-      <guid>/tags/dependency-injection/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dependency-injection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>di</title>
-      <link>/tags/di/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/di/</link>
       <pubDate>Fri, 12 Oct 2018 11:48:08 +0300</pubDate>
       
-      <guid>/tags/di/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/di/</guid>
       <description></description>
     </item>
     
     <item>
       <title>amp</title>
-      <link>/tags/amp/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/amp/</link>
       <pubDate>Wed, 10 Oct 2018 11:57:46 +0300</pubDate>
       
-      <guid>/tags/amp/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/amp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>espresso</title>
-      <link>/tags/espresso/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/espresso/</link>
       <pubDate>Tue, 18 Sep 2018 11:51:07 +0300</pubDate>
       
-      <guid>/tags/espresso/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/espresso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>junit</title>
-      <link>/tags/junit/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/junit/</link>
       <pubDate>Tue, 18 Sep 2018 11:51:07 +0300</pubDate>
       
-      <guid>/tags/junit/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/junit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mock</title>
-      <link>/tags/mock/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/mock/</link>
       <pubDate>Tue, 18 Sep 2018 11:51:07 +0300</pubDate>
       
-      <guid>/tags/mock/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/mock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mockito</title>
-      <link>/tags/mockito/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/mockito/</link>
       <pubDate>Tue, 18 Sep 2018 11:51:07 +0300</pubDate>
       
-      <guid>/tags/mockito/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/mockito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>roboloectric</title>
-      <link>/tags/roboloectric/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/roboloectric/</link>
       <pubDate>Tue, 18 Sep 2018 11:51:07 +0300</pubDate>
       
-      <guid>/tags/roboloectric/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/roboloectric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dns</title>
-      <link>/tags/dns/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dns/</link>
       <pubDate>Mon, 13 Aug 2018 00:50:25 +0300</pubDate>
       
-      <guid>/tags/dns/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dns-over-tls</title>
-      <link>/tags/dns-over-tls/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dns-over-tls/</link>
       <pubDate>Mon, 13 Aug 2018 00:50:25 +0300</pubDate>
       
-      <guid>/tags/dns-over-tls/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dns-over-tls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>/tags/ssl/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/ssl/</link>
       <pubDate>Mon, 13 Aug 2018 00:50:25 +0300</pubDate>
       
-      <guid>/tags/ssl/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tls</title>
-      <link>/tags/tls/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/tls/</link>
       <pubDate>Mon, 13 Aug 2018 00:50:25 +0300</pubDate>
       
-      <guid>/tags/tls/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/tls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>encrypted-data</title>
-      <link>/tags/encrypted-data/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/encrypted-data/</link>
       <pubDate>Sun, 12 Aug 2018 23:12:07 +0300</pubDate>
       
-      <guid>/tags/encrypted-data/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/encrypted-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>network</title>
-      <link>/tags/network/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/network/</link>
       <pubDate>Sun, 12 Aug 2018 23:12:07 +0300</pubDate>
       
-      <guid>/tags/network/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arduino</title>
-      <link>/tags/arduino/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/arduino/</link>
       <pubDate>Fri, 03 Aug 2018 22:21:48 +0300</pubDate>
       
-      <guid>/tags/arduino/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/arduino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iot</title>
-      <link>/tags/iot/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/iot/</link>
       <pubDate>Fri, 03 Aug 2018 22:21:48 +0300</pubDate>
       
-      <guid>/tags/iot/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>motor</title>
-      <link>/tags/motor/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/motor/</link>
       <pubDate>Fri, 03 Aug 2018 22:21:48 +0300</pubDate>
       
-      <guid>/tags/motor/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/motor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>backstack</title>
-      <link>/tags/backstack/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/backstack/</link>
       <pubDate>Fri, 04 May 2018 17:38:15 +0300</pubDate>
       
-      <guid>/tags/backstack/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/backstack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>navigate</title>
-      <link>/tags/navigate/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/navigate/</link>
       <pubDate>Fri, 04 May 2018 17:38:15 +0300</pubDate>
       
-      <guid>/tags/navigate/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/navigate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>android-architecure</title>
-      <link>/tags/android-architecure/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/android-architecure/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/android-architecure/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/android-architecure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lifecycle</title>
-      <link>/tags/lifecycle/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/lifecycle/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lifecycle/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/lifecycle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>livedata</title>
-      <link>/tags/livedata/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/livedata/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/livedata/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/livedata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software</title>
-      <link>/tags/software/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/software/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/software/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>viewmodel</title>
-      <link>/tags/viewmodel/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/viewmodel/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/viewmodel/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/viewmodel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud</title>
-      <link>/tags/cloud/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/cloud/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cloud/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud-dns</title>
-      <link>/tags/cloud-dns/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/cloud-dns/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cloud-dns/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/cloud-dns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>custom-dns</title>
-      <link>/tags/custom-dns/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/custom-dns/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/custom-dns/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/custom-dns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>domain</title>
-      <link>/tags/domain/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/domain/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/domain/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/domain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gcloud</title>
-      <link>/tags/gcloud/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/gcloud/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/gcloud/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/gcloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>annotations</title>
-      <link>/tags/annotations/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/annotations/</link>
       <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/annotations/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/annotations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jvmoverloads</title>
-      <link>/tags/jvmoverloads/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/jvmoverloads/</link>
       <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/jvmoverloads/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/jvmoverloads/</guid>
       <description></description>
     </item>
     
     <item>
       <title>enum</title>
-      <link>/tags/enum/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/enum/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/enum/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/enum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sealed</title>
-      <link>/tags/sealed/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sealed/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sealed/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sealed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lambda</title>
-      <link>/tags/lambda/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/lambda/</link>
       <pubDate>Sun, 18 Jun 2017 02:24:37 +0300</pubDate>
       
-      <guid>/tags/lambda/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/lambda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apply</title>
-      <link>/tags/apply/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/apply/</link>
       <pubDate>Tue, 06 Jun 2017 10:47:58 +0300</pubDate>
       
-      <guid>/tags/apply/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/apply/</guid>
       <description></description>
     </item>
     
     <item>
       <title>extensin function</title>
-      <link>/tags/extensin-function/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/extensin-function/</link>
       <pubDate>Tue, 06 Jun 2017 10:47:58 +0300</pubDate>
       
-      <guid>/tags/extensin-function/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/extensin-function/</guid>
       <description></description>
     </item>
     
     <item>
       <title>when</title>
-      <link>/tags/when/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/when/</link>
       <pubDate>Tue, 06 Jun 2017 04:42:56 +0300</pubDate>
       
-      <guid>/tags/when/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/when/</guid>
       <description></description>
     </item>
     
     <item>
       <title>let</title>
-      <link>/tags/let/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/let/</link>
       <pubDate>Tue, 06 Jun 2017 04:33:06 +0300</pubDate>
       
-      <guid>/tags/let/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/let/</guid>
       <description></description>
     </item>
     
     <item>
       <title>oauth</title>
-      <link>/tags/oauth/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/oauth/</link>
       <pubDate>Wed, 17 May 2017 11:58:43 +0300</pubDate>
       
-      <guid>/tags/oauth/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/oauth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>okhttp</title>
-      <link>/tags/okhttp/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/okhttp/</link>
       <pubDate>Wed, 17 May 2017 11:58:43 +0300</pubDate>
       
-      <guid>/tags/okhttp/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/okhttp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>retrofit</title>
-      <link>/tags/retrofit/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/retrofit/</link>
       <pubDate>Wed, 17 May 2017 11:58:43 +0300</pubDate>
       
-      <guid>/tags/retrofit/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/retrofit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dynamiclink</title>
-      <link>/tags/dynamiclink/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dynamiclink/</link>
       <pubDate>Mon, 17 Apr 2017 01:53:03 +0300</pubDate>
       
-      <guid>/tags/dynamiclink/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dynamiclink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>firebase</title>
-      <link>/tags/firebase/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/firebase/</link>
       <pubDate>Mon, 17 Apr 2017 01:53:03 +0300</pubDate>
       
-      <guid>/tags/firebase/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/firebase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bluetooth</title>
-      <link>/tags/bluetooth/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/bluetooth/</link>
       <pubDate>Sun, 12 Mar 2017 23:40:36 +0300</pubDate>
       
-      <guid>/tags/bluetooth/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/bluetooth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hc-06</title>
-      <link>/tags/hc-06/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/hc-06/</link>
       <pubDate>Sun, 12 Mar 2017 23:40:36 +0300</pubDate>
       
-      <guid>/tags/hc-06/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/hc-06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hc06</title>
-      <link>/tags/hc06/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/hc06/</link>
       <pubDate>Sun, 12 Mar 2017 23:40:36 +0300</pubDate>
       
-      <guid>/tags/hc06/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/hc06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>yeoman</title>
-      <link>/tags/yeoman/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/yeoman/</link>
       <pubDate>Wed, 18 Jan 2017 12:09:26 +0300</pubDate>
       
-      <guid>/tags/yeoman/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/yeoman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>c#</title>
-      <link>/tags/c#/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/c#/</link>
       <pubDate>Mon, 16 Jan 2017 11:13:16 +0300</pubDate>
       
-      <guid>/tags/c#/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/c#/</guid>
       <description></description>
     </item>
     
     <item>
       <title>null condition</title>
-      <link>/tags/null-condition/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/null-condition/</link>
       <pubDate>Mon, 16 Jan 2017 11:13:16 +0300</pubDate>
       
-      <guid>/tags/null-condition/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/null-condition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>operator</title>
-      <link>/tags/operator/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/operator/</link>
       <pubDate>Mon, 16 Jan 2017 11:13:16 +0300</pubDate>
       
-      <guid>/tags/operator/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/operator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soru isareti</title>
-      <link>/tags/soru-isareti/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/soru-isareti/</link>
       <pubDate>Mon, 16 Jan 2017 11:13:16 +0300</pubDate>
       
-      <guid>/tags/soru-isareti/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/soru-isareti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>addJavascriptInterface</title>
-      <link>/tags/addjavascriptinterface/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/addjavascriptinterface/</link>
       <pubDate>Wed, 11 Jan 2017 19:59:08 +0300</pubDate>
       
-      <guid>/tags/addjavascriptinterface/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/addjavascriptinterface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>java</title>
-      <link>/tags/java/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/java/</link>
       <pubDate>Wed, 11 Jan 2017 19:59:08 +0300</pubDate>
       
-      <guid>/tags/java/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavascriptInterface</title>
-      <link>/tags/javascriptinterface/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/javascriptinterface/</link>
       <pubDate>Wed, 11 Jan 2017 19:59:08 +0300</pubDate>
       
-      <guid>/tags/javascriptinterface/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/javascriptinterface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sofware</title>
-      <link>/tags/sofware/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sofware/</link>
       <pubDate>Wed, 11 Jan 2017 19:59:08 +0300</pubDate>
       
-      <guid>/tags/sofware/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sofware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>webview</title>
-      <link>/tags/webview/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/webview/</link>
       <pubDate>Wed, 11 Jan 2017 19:59:08 +0300</pubDate>
       
-      <guid>/tags/webview/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/webview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WebViewClient</title>
-      <link>/tags/webviewclient/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/webviewclient/</link>
       <pubDate>Wed, 11 Jan 2017 19:59:08 +0300</pubDate>
       
-      <guid>/tags/webviewclient/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/webviewclient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bash script</title>
-      <link>/tags/bash-script/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/bash-script/</link>
       <pubDate>Wed, 11 Jan 2017 19:56:08 +0300</pubDate>
       
-      <guid>/tags/bash-script/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/bash-script/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker</title>
-      <link>/tags/docker/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/docker/</link>
       <pubDate>Wed, 11 Jan 2017 19:56:08 +0300</pubDate>
       
-      <guid>/tags/docker/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>execute</title>
-      <link>/tags/execute/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/execute/</link>
       <pubDate>Wed, 11 Jan 2017 19:26:49 +0300</pubDate>
       
-      <guid>/tags/execute/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/execute/</guid>
       <description></description>
     </item>
     
     <item>
       <title>executorservice</title>
-      <link>/tags/executorservice/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/executorservice/</link>
       <pubDate>Wed, 11 Jan 2017 19:26:49 +0300</pubDate>
       
-      <guid>/tags/executorservice/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/executorservice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>submit</title>
-      <link>/tags/submit/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/submit/</link>
       <pubDate>Wed, 11 Jan 2017 19:26:49 +0300</pubDate>
       
-      <guid>/tags/submit/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/submit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>callable</title>
-      <link>/tags/callable/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/callable/</link>
       <pubDate>Wed, 11 Jan 2017 18:55:08 +0300</pubDate>
       
-      <guid>/tags/callable/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/callable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Executors</title>
-      <link>/tags/executors/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/executors/</link>
       <pubDate>Wed, 11 Jan 2017 18:55:08 +0300</pubDate>
       
-      <guid>/tags/executors/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/executors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>multithread</title>
-      <link>/tags/multithread/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/multithread/</link>
       <pubDate>Wed, 11 Jan 2017 18:55:08 +0300</pubDate>
       
-      <guid>/tags/multithread/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/multithread/</guid>
       <description></description>
     </item>
     
     <item>
       <title>newCachedThreadPool</title>
-      <link>/tags/newcachedthreadpool/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/newcachedthreadpool/</link>
       <pubDate>Wed, 11 Jan 2017 18:55:08 +0300</pubDate>
       
-      <guid>/tags/newcachedthreadpool/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/newcachedthreadpool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>newFixedThreadPool</title>
-      <link>/tags/newfixedthreadpool/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/newfixedthreadpool/</link>
       <pubDate>Wed, 11 Jan 2017 18:55:08 +0300</pubDate>
       
-      <guid>/tags/newfixedthreadpool/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/newfixedthreadpool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>newSingleThreadExecutor</title>
-      <link>/tags/newsinglethreadexecutor/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/newsinglethreadexecutor/</link>
       <pubDate>Wed, 11 Jan 2017 18:55:08 +0300</pubDate>
       
-      <guid>/tags/newsinglethreadexecutor/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/newsinglethreadexecutor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>runnable</title>
-      <link>/tags/runnable/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/runnable/</link>
       <pubDate>Wed, 11 Jan 2017 18:55:08 +0300</pubDate>
       
-      <guid>/tags/runnable/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/runnable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thread</title>
-      <link>/tags/thread/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/thread/</link>
       <pubDate>Wed, 11 Jan 2017 18:55:08 +0300</pubDate>
       
-      <guid>/tags/thread/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/thread/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rxjava</title>
-      <link>/tags/rxjava/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/rxjava/</link>
       <pubDate>Wed, 11 Jan 2017 18:52:51 +0300</pubDate>
       
-      <guid>/tags/rxjava/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/rxjava/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reduce</title>
-      <link>/tags/reduce/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/reduce/</link>
       <pubDate>Wed, 11 Jan 2017 18:42:04 +0300</pubDate>
       
-      <guid>/tags/reduce/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/reduce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>express</title>
-      <link>/tags/express/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/express/</link>
       <pubDate>Wed, 11 Jan 2017 18:14:05 +0300</pubDate>
       
-      <guid>/tags/express/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/express/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intellisense</title>
-      <link>/tags/intellisense/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/intellisense/</link>
       <pubDate>Wed, 11 Jan 2017 18:14:05 +0300</pubDate>
       
-      <guid>/tags/intellisense/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/intellisense/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nodejs</title>
-      <link>/tags/nodejs/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/nodejs/</link>
       <pubDate>Wed, 11 Jan 2017 18:14:05 +0300</pubDate>
       
-      <guid>/tags/nodejs/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>typescript</title>
-      <link>/tags/typescript/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/typescript/</link>
       <pubDate>Wed, 11 Jan 2017 18:14:05 +0300</pubDate>
       
-      <guid>/tags/typescript/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/typescript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vscode</title>
-      <link>/tags/vscode/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/vscode/</link>
       <pubDate>Wed, 11 Jan 2017 18:14:05 +0300</pubDate>
       
-      <guid>/tags/vscode/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/vscode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tcp</title>
-      <link>/tags/tcp/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/tcp/</link>
       <pubDate>Wed, 11 Jan 2017 18:05:02 +0300</pubDate>
       
-      <guid>/tags/tcp/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/tcp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tcp/ip</title>
-      <link>/tags/tcp/ip/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/tcp/ip/</link>
       <pubDate>Wed, 11 Jan 2017 18:05:02 +0300</pubDate>
       
-      <guid>/tags/tcp/ip/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/tcp/ip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bintray</title>
-      <link>/tags/bintray/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/bintray/</link>
       <pubDate>Wed, 11 Jan 2017 17:27:29 +0300</pubDate>
       
-      <guid>/tags/bintray/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/bintray/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gradle</title>
-      <link>/tags/gradle/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/gradle/</link>
       <pubDate>Wed, 11 Jan 2017 17:27:29 +0300</pubDate>
       
-      <guid>/tags/gradle/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/gradle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>library</title>
-      <link>/tags/library/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/library/</link>
       <pubDate>Wed, 11 Jan 2017 17:27:29 +0300</pubDate>
       
-      <guid>/tags/library/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/library/</guid>
       <description></description>
     </item>
     
     <item>
       <title>runtime permission</title>
-      <link>/tags/runtime-permission/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/runtime-permission/</link>
       <pubDate>Wed, 11 Jan 2017 17:24:52 +0300</pubDate>
       
-      <guid>/tags/runtime-permission/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/runtime-permission/</guid>
       <description></description>
     </item>
     
     <item>
       <title>klon</title>
-      <link>/tags/klon/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/klon/</link>
       <pubDate>Wed, 11 Jan 2017 17:22:38 +0300</pubDate>
       
-      <guid>/tags/klon/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/klon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uno</title>
-      <link>/tags/uno/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/uno/</link>
       <pubDate>Wed, 11 Jan 2017 17:22:38 +0300</pubDate>
       
-      <guid>/tags/uno/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/uno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mssql</title>
-      <link>/tags/mssql/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/mssql/</link>
       <pubDate>Wed, 11 Jan 2017 17:20:37 +0300</pubDate>
       
-      <guid>/tags/mssql/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/mssql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sql</title>
-      <link>/tags/sql/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sql/</link>
       <pubDate>Wed, 11 Jan 2017 17:20:37 +0300</pubDate>
       
-      <guid>/tags/sql/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sql_scope_identity</title>
-      <link>/tags/sql_scope_identity/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sql_scope_identity/</link>
       <pubDate>Wed, 11 Jan 2017 17:20:37 +0300</pubDate>
       
-      <guid>/tags/sql_scope_identity/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sql_scope_identity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>/tags/javascript/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/javascript/</link>
       <pubDate>Wed, 11 Jan 2017 17:14:22 +0300</pubDate>
       
-      <guid>/tags/javascript/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>glide</title>
-      <link>/tags/glide/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/glide/</link>
       <pubDate>Wed, 11 Jan 2017 17:11:30 +0300</pubDate>
       
-      <guid>/tags/glide/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/glide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>palette</title>
-      <link>/tags/palette/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/palette/</link>
       <pubDate>Wed, 11 Jan 2017 17:11:30 +0300</pubDate>
       
-      <guid>/tags/palette/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/palette/</guid>
       <description></description>
     </item>
     
     <item>
       <title>viewpager</title>
-      <link>/tags/viewpager/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/viewpager/</link>
       <pubDate>Wed, 11 Jan 2017 17:07:51 +0300</pubDate>
       
-      <guid>/tags/viewpager/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/viewpager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>collections</title>
-      <link>/tags/collections/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/collections/</link>
       <pubDate>Wed, 11 Jan 2017 16:10:10 +0300</pubDate>
       
-      <guid>/tags/collections/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/collections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>swap</title>
-      <link>/tags/swap/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/swap/</link>
       <pubDate>Wed, 11 Jan 2017 16:10:10 +0300</pubDate>
       
-      <guid>/tags/swap/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/swap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>toolbar</title>
-      <link>/tags/toolbar/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/toolbar/</link>
       <pubDate>Wed, 11 Jan 2017 16:01:33 +0300</pubDate>
       
-      <guid>/tags/toolbar/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/toolbar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dbeaver</title>
-      <link>/tags/dbeaver/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dbeaver/</link>
       <pubDate>Wed, 11 Jan 2017 15:50:10 +0300</pubDate>
       
-      <guid>/tags/dbeaver/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/dbeaver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>macos mssql connection</title>
-      <link>/tags/macos-mssql-connection/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/macos-mssql-connection/</link>
       <pubDate>Wed, 11 Jan 2017 15:50:10 +0300</pubDate>
       
-      <guid>/tags/macos-mssql-connection/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/macos-mssql-connection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>custom script</title>
-      <link>/tags/custom-script/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/custom-script/</link>
       <pubDate>Wed, 11 Jan 2017 15:39:47 +0300</pubDate>
       
-      <guid>/tags/custom-script/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/custom-script/</guid>
       <description></description>
     </item>
     
     <item>
       <title>foreground service</title>
-      <link>/tags/foreground-service/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/foreground-service/</link>
       <pubDate>Wed, 11 Jan 2017 15:27:59 +0300</pubDate>
       
-      <guid>/tags/foreground-service/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/foreground-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fusedlocationapi</title>
-      <link>/tags/fusedlocationapi/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/fusedlocationapi/</link>
       <pubDate>Wed, 11 Jan 2017 15:27:59 +0300</pubDate>
       
-      <guid>/tags/fusedlocationapi/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/fusedlocationapi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>file upload</title>
-      <link>/tags/file-upload/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/file-upload/</link>
       <pubDate>Wed, 11 Jan 2017 01:50:51 +0300</pubDate>
       
-      <guid>/tags/file-upload/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/file-upload/</guid>
       <description></description>
     </item>
     
     <item>
       <title>multipart</title>
-      <link>/tags/multipart/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/multipart/</link>
       <pubDate>Wed, 11 Jan 2017 01:50:51 +0300</pubDate>
       
-      <guid>/tags/multipart/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/multipart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gcmnetworkmanager</title>
-      <link>/tags/gcmnetworkmanager/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/gcmnetworkmanager/</link>
       <pubDate>Wed, 11 Jan 2017 01:43:53 +0300</pubDate>
       
-      <guid>/tags/gcmnetworkmanager/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/gcmnetworkmanager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sms</title>
-      <link>/tags/sms/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sms/</link>
       <pubDate>Wed, 11 Jan 2017 01:42:54 +0300</pubDate>
       
-      <guid>/tags/sms/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sms-receiver</title>
-      <link>/tags/sms-receiver/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sms-receiver/</link>
       <pubDate>Wed, 11 Jan 2017 01:42:54 +0300</pubDate>
       
-      <guid>/tags/sms-receiver/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sms-receiver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>broadcast receiver</title>
-      <link>/tags/broadcast-receiver/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/broadcast-receiver/</link>
       <pubDate>Wed, 11 Jan 2017 01:42:36 +0300</pubDate>
       
-      <guid>/tags/broadcast-receiver/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/broadcast-receiver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>internet control</title>
-      <link>/tags/internet-control/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/internet-control/</link>
       <pubDate>Wed, 11 Jan 2017 01:42:36 +0300</pubDate>
       
-      <guid>/tags/internet-control/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/internet-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>api test</title>
-      <link>/tags/api-test/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/api-test/</link>
       <pubDate>Wed, 11 Jan 2017 01:09:39 +0300</pubDate>
       
-      <guid>/tags/api-test/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/api-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>postman</title>
-      <link>/tags/postman/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/postman/</link>
       <pubDate>Wed, 11 Jan 2017 01:09:39 +0300</pubDate>
       
-      <guid>/tags/postman/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/postman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>activeandroid</title>
-      <link>/tags/activeandroid/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/activeandroid/</link>
       <pubDate>Wed, 11 Jan 2017 01:00:19 +0300</pubDate>
       
-      <guid>/tags/activeandroid/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/activeandroid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>orm</title>
-      <link>/tags/orm/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/orm/</link>
       <pubDate>Wed, 11 Jan 2017 01:00:19 +0300</pubDate>
       
-      <guid>/tags/orm/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/orm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sqlite</title>
-      <link>/tags/sqlite/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sqlite/</link>
       <pubDate>Wed, 11 Jan 2017 01:00:19 +0300</pubDate>
       
-      <guid>/tags/sqlite/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sqlite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>android test</title>
-      <link>/tags/android-test/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/android-test/</link>
       <pubDate>Wed, 11 Jan 2017 00:31:52 +0300</pubDate>
       
-      <guid>/tags/android-test/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/android-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>robolectric</title>
-      <link>/tags/robolectric/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/robolectric/</link>
       <pubDate>Wed, 11 Jan 2017 00:31:52 +0300</pubDate>
       
-      <guid>/tags/robolectric/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/robolectric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>unit test</title>
-      <link>/tags/unit-test/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/unit-test/</link>
       <pubDate>Wed, 11 Jan 2017 00:27:54 +0300</pubDate>
       
-      <guid>/tags/unit-test/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/unit-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>azure</title>
-      <link>/tags/azure/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/azure/</link>
       <pubDate>Wed, 11 Jan 2017 00:21:36 +0300</pubDate>
       
-      <guid>/tags/azure/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>notification hubs</title>
-      <link>/tags/notification-hubs/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/notification-hubs/</link>
       <pubDate>Wed, 11 Jan 2017 00:21:36 +0300</pubDate>
       
-      <guid>/tags/notification-hubs/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/notification-hubs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>recaptcha</title>
-      <link>/tags/recaptcha/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/recaptcha/</link>
       <pubDate>Wed, 11 Jan 2017 00:14:08 +0300</pubDate>
       
-      <guid>/tags/recaptcha/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/recaptcha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyhashes</title>
-      <link>/tags/keyhashes/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/keyhashes/</link>
       <pubDate>Tue, 10 Jan 2017 23:56:35 +0300</pubDate>
       
-      <guid>/tags/keyhashes/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/keyhashes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sha1</title>
-      <link>/tags/sha1/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sha1/</link>
       <pubDate>Tue, 10 Jan 2017 23:56:35 +0300</pubDate>
       
-      <guid>/tags/sha1/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/sha1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hosts</title>
-      <link>/tags/hosts/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/hosts/</link>
       <pubDate>Tue, 10 Jan 2017 23:20:12 +0300</pubDate>
       
-      <guid>/tags/hosts/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/hosts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iis</title>
-      <link>/tags/iis/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/iis/</link>
       <pubDate>Tue, 10 Jan 2017 23:20:12 +0300</pubDate>
       
-      <guid>/tags/iis/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/iis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>localwebserver</title>
-      <link>/tags/localwebserver/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/localwebserver/</link>
       <pubDate>Tue, 10 Jan 2017 23:20:12 +0300</pubDate>
       
-      <guid>/tags/localwebserver/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/localwebserver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>site</title>
-      <link>/tags/site/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/site/</link>
       <pubDate>Tue, 10 Jan 2017 23:20:12 +0300</pubDate>
       
-      <guid>/tags/site/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/site/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nullif</title>
-      <link>/tags/nullif/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/nullif/</link>
       <pubDate>Tue, 10 Jan 2017 23:08:34 +0300</pubDate>
       
-      <guid>/tags/nullif/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/nullif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tsql</title>
-      <link>/tags/tsql/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/tsql/</link>
       <pubDate>Tue, 10 Jan 2017 23:08:34 +0300</pubDate>
       
-      <guid>/tags/tsql/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/tsql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spinner</title>
-      <link>/tags/spinner/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/spinner/</link>
       <pubDate>Tue, 10 Jan 2017 23:00:03 +0300</pubDate>
       
-      <guid>/tags/spinner/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/spinner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>container</title>
-      <link>/tags/container/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/container/</link>
       <pubDate>Sun, 25 Dec 2016 03:51:49 +0300</pubDate>
       
-      <guid>/tags/container/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/container/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>/tags/linux/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/linux/</link>
       <pubDate>Sun, 25 Dec 2016 03:51:49 +0300</pubDate>
       
-      <guid>/tags/linux/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nano</title>
-      <link>/tags/nano/</link>
+      <link>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/nano/</link>
       <pubDate>Sun, 25 Dec 2016 03:51:49 +0300</pubDate>
       
-      <guid>/tags/nano/</guid>
+      <guid>https://aykuttasil.github.io/hugo-static-site-with-actions/tags/nano/</guid>
       <description></description>
     </item>
     
